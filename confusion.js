@@ -38,4 +38,3 @@ console.log(y);// null
 let i=1;
 console.log(++i); //2
 console.log(i++); //2(but i is now 3)
-
